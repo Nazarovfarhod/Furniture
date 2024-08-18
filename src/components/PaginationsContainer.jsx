@@ -20,7 +20,7 @@ function PaginationsContainer() {
   }
 
   return (
-    <div className="mt-16 flex  justify-end ">
+    <div className="mt-10 flex  justify-center ">
       <div className="join">
         <button
           className="btn btn-sx sm:btn-md join-item"
